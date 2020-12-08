@@ -1,0 +1,5 @@
+a:4:{s:4:"root";s:24:"./assets/less/style.less";s:8:"compiled";s:47:".test {
+  height: 111px;
+  background: pink;
+}
+";s:5:"files";a:3:{s:52:"/Applications/MAMP/htdocs/loc/assets/less/style.less";i:1607173518;s:53:"/Applications/MAMP/htdocs/loc/assets/less/blocks.less";i:1607173537;s:54:"/Applications/MAMP/htdocs/loc/assets/less/screens.less";i:1607173404;}s:7:"updated";i:1607173539;}
