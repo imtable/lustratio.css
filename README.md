@@ -2,4 +2,4 @@
 
 my compilation of reset.css, normylize.css and some more (in future)
 
-(this project is not the beginning)
+(this is not a started project)
